@@ -1166,7 +1166,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/project-1.jpg");
+  background-ge: url("../img/project-1.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1641,7 +1641,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fentanilo\ consecuencias.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
@@ -1650,11 +1650,11 @@ body {
 }
 
 .post-2 {
-  background-image: url("../img/post-2.jpg");
+  background-image: url("../img/jovenes\ fentanilo.avif");
 }
 
 .post-3 {
-  background-image: url("../img/post-3.jpg");
+  background-image: url("../img/antifentanilo.png");
   background-size: 160%;
 }
 @media (min-width: 40em) {
@@ -1667,11 +1667,11 @@ body {
 }
 
 .post-4 {
-  background-image: url("../img/post-4.jpg");
+  background-image: url("../img/fentanilo\ guadalajara.jpg");
 }
 
 .post-5 {
-  background-image: url("../img/post-5.jpg");
+  background-image: url("../img/fentanilo\ psicologia.webp");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-5 {
@@ -1680,7 +1680,7 @@ body {
 }
 
 .post-6 {
-  background-image: url("../img/post-6.jpg");
+  background-image: url("../img/fentanilo\ antes\ y\ despues.avif");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-6 {
@@ -1689,7 +1689,7 @@ body {
 }
 
 .post-7 {
-  background-image: url("../img/post-7.jpg");
+  background-image: url("../img/fentanilo\ arresto.webp");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-7 {
@@ -1698,11 +1698,11 @@ body {
 }
 
 .post-8 {
-  background-image: url("../img/post-8.jpg");
+  background-image: url("../img/FENTANILLO-2022.png");
 }
 
 .post-9 {
-  background-image: url("../img/post-9.jpg");
+  background-image: url("../img/fentanilo.webp");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-9 {
