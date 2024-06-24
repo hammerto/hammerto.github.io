@@ -1,0 +1,14 @@
+.fondo{
+    background: linear-gradient(to top, #414141, #000000); margin: 0; height: 100vh; display: flex; justify-content: center; align-items: center;
+}
+
+.titulo{
+   margin-top: -50%;
+    color: #ffffff;
+}
+
+.texto{
+color: #ffffff;
+text-align: left;
+border: solid;
+}
