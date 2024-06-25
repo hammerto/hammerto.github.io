@@ -1,14 +1,22 @@
 .fondo{
-    background: linear-gradient(to top, #414141, #000000); margin: 0; height: 100vh; display: flex; justify-content: center; align-items: center;
+    background: linear-gradient( #020202, #414141); margin: 0; height: 100vh; 
+    background-repeat: no-repeat;
 }
 
 .titulo{
-   margin-top: -50%;
-    color: #ffffff;
+margin-top: 100px;
+color: #f50000;
+text-align: center;
 }
 
 .texto{
 color: #ffffff;
-text-align: left;
-border: solid;
+margin-left: 100px;
+font-size: 22px;
+}
+
+.imagen{
+    text-align:center;
+    height: 100px;
+    width: 100px;
 }
